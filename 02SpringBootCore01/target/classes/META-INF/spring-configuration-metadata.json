@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.cf.setting.config.UserConfig",
+      "name": "user",
+      "type": "com.cf.setting.config.UserConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.cf.setting.config.UserConfig",
+      "name": "user.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.cf.setting.config.UserConfig",
+      "name": "user.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
